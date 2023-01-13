@@ -13,7 +13,7 @@
       "email": "hi@envoy.com"
     }
   },
-  "host": "envoy-plugin-ms-flow.herokuapp.com",
+  "host": "envoy-plugin-ms-flow.apps.envoy.com",
   "basePath": "/",
   "schemes": [
     "https"
@@ -5156,7 +5156,9 @@
   "x-ms-connector-metadata": [
     {
       "propertyName": "Website",
-      "propertyValue": "https://envoy.com/"
+      "propertyValue": "https://envoy
+      
+      /"
     },
     {
       "propertyName": "Privacy policy",
